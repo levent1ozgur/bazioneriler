@@ -81,10 +81,10 @@
 
 **Mead Yapımı:**
 
-1.[`Bal veya %100 meyve suyu`]
-2.[`Su veya %100 meyve suyu`]
-3.[`Maya`](https://www.vinomarket.com.tr/urun/safbrew-wb-06-bugday-bira-mayasi)
-4.[`Maya besini`](https://www.vinomarket.com.tr/urun/fermaid-o-25-g)
+1. [`Bal veya %100 meyve suyu`]
+2. [`Su veya %100 meyve suyu`]
+3. [`Maya`](https://www.vinomarket.com.tr/urun/safbrew-wb-06-bugday-bira-mayasi)
+4. [`Maya besini`](https://www.vinomarket.com.tr/urun/fermaid-o-25-g)
 4. [`2 x 5 Litrelik cam kavanoz(bir tanesi ikinci fermantasyon için(berraklaştırmak için))`](https://www.toptansisekavanoz.com/5000-cc-cam-kavanoz-kapaksiz-(100-agiz)-5-litre-cam-kavanoz-ud-252)
 5. [`4 x Kapak(2 tanesi delinecek hava kilidi takmak için)`](https://www.toptansisekavanoz.com/100-mm-twist-off-siyah-metal-kapak-100-mm-twist-off-cam-kavanoz-kapagi-ud-969)
 6. [`2 x Hava kilidi`](https://www.amazon.com.tr/dp/B081RCGYR2?psc=1)
