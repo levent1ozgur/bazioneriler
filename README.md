@@ -1,1 +1,1 @@
-# some useful things
+# önerdiğim bazı kullanışlı şeyler
