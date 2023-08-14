@@ -1,1 +1,1 @@
-# önerdiğim bazı kullanışlı şeyler
+# bazı öneriler.
