@@ -1,19 +1,5 @@
-html, body, iframe { height: 100%; }
-body {
-    font-family: Times New Roman;
-    margin: 0;
-    padding: 20px;
-  }
-  h2 {
-    margin-top: 20px;
-  }
-  ul, ol {
-    padding-left: 20px;
-  }
-  a {
-    text-decoration: none;
-    color: #007bff;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
+html, body, iframe { 
+height: 100%; 
+weight: 100%;
+frameborder: 0;
+}
