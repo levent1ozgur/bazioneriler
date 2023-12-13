@@ -3,6 +3,10 @@
 	 padding-top:40px;
 	 font-family: Times New Roman, sans-serif;
  }
+.container {
+  position: relative;
+  display:block;
+}
 h1{
 	font-size:24px;
 	font-weight:600;
@@ -23,4 +27,5 @@ strong{
 li{
 	color:#F1F0EF;
 	font-size:18px;
+  padding:3px;
 }
