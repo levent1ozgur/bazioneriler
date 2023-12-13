@@ -1,11 +1,10 @@
  body{
 	 background-color:#181818;
-	 padding-top:40px;
+	 padding-top:20px;
 	 font-family: Times New Roman, sans-serif;
  }
 .container {
-  position: relative;
-  display:block;
+  padding: 2% 8%;
 }
 h1{
 	font-size:24px;
