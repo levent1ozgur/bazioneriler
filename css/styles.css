@@ -21,10 +21,29 @@ a:hover{
 }
 strong{
 	color:#991F36;
-  font-size:20px;
+  font-size:18.5px;
 }
 li{
 	color:#F1F0EF;
 	font-size:18px;
   padding:3px;
 }
+@media screen and (min-width: 1080px) {
+  body {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 720px) {
+  body {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 360px) {
+  body {
+    font-size: 12px;
+  }
