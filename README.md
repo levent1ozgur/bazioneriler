@@ -14,9 +14,7 @@
 *   [PROCSIN Hydrosolution Yüz Temizleme Jeli 200 Ml | **durulamalı**](https://www.procsin.com/procsin-hydrosolution-yuz-temizleme-jeli-200-ml)
 *   [PROCSIN Hydrosolution Yüz Temizleme Tonik 200 ml | **durulamasız**](https://www.procsin.com/procsin-hydrosolution-tonik-200-ml)
 *   [PROCSIN Hydrosynol Canlandırıcı Cilt Tonu Eşitleyici Aha Bha Serum 30 ML | **siyah noktalar için**](https://www.procsin.com/procsin-hydrosnol-canlandirici-cilt-tonu-esitleyici-aha-bha-serum-30-ml)
-*   [El, Ayak ve Koltuk Altı **Terleme Önleyici Sprey** 50 ML](https://www.trendyol.com/tereson/el-ayak-ve-koltuk-alti-terleme-onleyici-sprey-50-ml-p-85437?boutiqueId=61&merchantId=110964)
-*   [Sakal veya saç bakım yağı | 3 ürünü karıştırdıktan sonra 3-5 damla avucunuza sonra saça veya sakala](https://www.trendyol.com/koleksiyonlar/sakal-esensil-k-ae29c718-47ce-4a98-945e-f82ca49a324b)  
-
+*   [El, Ayak ve Koltuk Altı **Terleme Önleyici Sprey** 50 ML](https://www.trendyol.com/tereson/el-ayak-ve-koltuk-alti-terleme-onleyici-sprey-50-ml-p-85437?boutiqueId=61&merchantId=110964)*   [Sakal veya saç bakım yağı | 3 ürünü karıştırdıktan sonra 3-5 damla avucunuza sonra saça veya sakala](https://www.trendyol.com/koleksiyonlar/sakal-esensil-k-ae29c718-47ce-4a98-945e-f82ca49a324b)  
 *   [🛒Hepsinin trendyol linki🛒](https://www.trendyol.com/koleksiyonlar/40-haramiler-beauty-and-health-care-routine-k-05612372-5135-401a-a8a7-a146636c5ea9)
 
 
@@ -28,7 +26,15 @@
 *   [**Torrent siteleri** ve diğer ilgili bilgilere ulaşabileceğiniz bir kaynak.](https://megathread.pages.dev/)
 *   [Sürekli güncellenen halka açık Bit**Torrent tracker listesi**.](https://ngosang.github.io/trackerslist/)
 *   [**Online privacy kılavuzu.**](https://www.privacyguides.org/en/)
-***   [**Ücretsiz, açık kaynaklı ve gizliliğe saygılı hizmetlerin ve özel hizmetlere alternatiflerin listesi.**](https://pluja.github.io/awesome-privacy/)***   [SSD için yapılacak tüm ayarlar.](https://www.technopat.net/sosyal/konu/ssd-icin-yapilacak-tuem-ayarlar.444993/)*   [Gizliliği ön planda tutan şifreli link kısaltıcı.](https://maglit.me/)*   [Ücretsiz **PDF kütüphanesi**.](https://libgen.is/)*   [Hesabınızı web hizmetlerinden silmek için doğrudan bağlantılardan oluşan bir dizin.](https://justdeleteme.xyz/)*   [Yapay zeka araçlar kütüphanesi.](https://www.futurepedia.io/)*   [AI image upscaler.](https://www.upscale.media/)*   [Online dosya tarama.](https://www.virustotal.com/)****
+*   [**Ücretsiz, açık kaynaklı ve gizliliğe saygılı hizmetlerin ve özel hizmetlere alternatiflerin listesi.**](https://pluja.github.io/awesome-privacy/)
+*   [SSD için yapılacak tüm ayarlar.](https://www.technopat.net/sosyal/konu/ssd-icin-yapilacak-tuem-ayarlar.444993/)
+*   [Gizliliği ön planda tutan şifreli link kısaltıcı.](https://maglit.me/)
+*   [Ücretsiz **PDF kütüphanesi**.](https://libgen.is/)
+*   [Hesabınızı web hizmetlerinden silmek için doğrudan bağlantılardan oluşan bir dizin.](https://justdeleteme.xyz/)
+*   [Yapay zeka araçlar kütüphanesi.](https://www.futurepedia.io/)
+*   [AI image upscaler.](https://www.upscale.media/)
+*   [Online dosya tarama.](https://www.virustotal.com/)
+ 
 
 
 ****
