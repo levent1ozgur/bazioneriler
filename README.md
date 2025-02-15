@@ -3,7 +3,7 @@
 * * *
 
 *   [Anime](https://myanimelist.net/animelist/cucarachasL?status=2&order=4&order2=0)
-*   [Dizi](https://www.imdb.com/user/ur163447799/watchlist?sort=your_rating%2Cdesc&view=detail)
+*   [Dizi](https://www.imdb.com/list/ls591728667/?ref_=ext_shr_lnk&sort=user_rating%2Cdesc)
 
 
 
