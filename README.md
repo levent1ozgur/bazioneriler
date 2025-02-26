@@ -34,9 +34,9 @@
 *   [Yapay zeka araçlar kütüphanesi.](https://www.futurepedia.io/)
 *   [AI image upscaler.](https://www.upscale.media/)
 *   [Online dosya tarama.](https://www.virustotal.com/)
-*   [Anime hayranlarının MyAnimeList (MAL) dışa aktarma dosyasından yapılandırılmış bir markdown promptu oluşturur.](https://myanimeprompt.netlify.app/)
-*   [Anime ses sanatçılarına göre anime bulma.](https://findmyseiyuu.netlify.app/)
-*   [Windows, MacOS ve Linux için toplu yazılım yükleme aracı. ](https://batchinstallpro.netlify.app/)
+*   [**MyAnimeList** (MAL) dışa aktarma dosyasından yapılandırılmış bir markdown promptu oluşturur.](https://myanimeprompt.netlify.app/)
+*   [Anime ses sanatçılarına göre **anime bulma**.](https://findmyseiyuu.netlify.app/)
+*   [Windows, MacOS ve Linux için **toplu yazılım yükleme** aracı. ](https://batchinstallpro.netlify.app/)
  
 
 
