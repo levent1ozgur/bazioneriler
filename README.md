@@ -11,12 +11,7 @@
 
 * * *
 
-*   [PROCSIN Hydrosolution Yüz Temizleme Jeli 200 Ml | **durulamalı**](https://www.procsin.com/procsin-hydrosolution-yuz-temizleme-jeli-200-ml)
-*   [PROCSIN Hydrosolution Yüz Temizleme Tonik 200 ml | **durulamasız**](https://www.procsin.com/procsin-hydrosolution-tonik-200-ml)
-*   [PROCSIN Hydrosynol Canlandırıcı Cilt Tonu Eşitleyici Aha Bha Serum 30 ML | **siyah noktalar için**](https://www.procsin.com/procsin-hydrosnol-canlandirici-cilt-tonu-esitleyici-aha-bha-serum-30-ml)
-*   [El, Ayak ve Koltuk Altı **Terleme Önleyici Sprey** 50 ML](https://www.trendyol.com/tereson/el-ayak-ve-koltuk-alti-terleme-onleyici-sprey-50-ml-p-85437?boutiqueId=61&merchantId=110964)*   [Sakal veya saç bakım yağı | 3 ürünü karıştırdıktan sonra 3-5 damla avucunuza sonra saça veya sakala](https://www.trendyol.com/koleksiyonlar/sakal-esensil-k-ae29c718-47ce-4a98-945e-f82ca49a324b)  
-*   [🛒Hepsinin trendyol linki🛒](https://www.trendyol.com/koleksiyonlar/40-haramiler-beauty-and-health-care-routine-k-05612372-5135-401a-a8a7-a146636c5ea9)
-
+*   [Trendyol koleksiyon](https://www.trendyol.com/koleksiyonlar/40-haramiler-beauty-and-health-care-routine-k-05612372-5135-401a-a8a7-a146636c5ea9)
 
 
 # Faydalı Linkler
