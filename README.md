@@ -57,17 +57,6 @@
 
 
 
-# Diğer Ürünler
-
-* * *
-
-*   [UGREEN 3.5mm Harici **USB Ses Kartı** Siyah](https://www.teknostore.com/ugreen-3-5mm-harici-usb-ses-karti-siyah-292)
-*   [UGREEN 2.5" USB 3.0 **SSD/HDD Disk Kutusu**](https://www.teknostore.com/ugreen-2-5-usb-3-0-ssd-hdd-disk-kutusu-310)
-*   [Kablo Tutucu ve Düzenleyici (3 Adet)](https://www.amazon.com.tr/Adet-Kanall%C4%B1-Kablo-Tutucu-Sabitleyici/dp/B094NVF2V1/ref=d_pd_sbs_sccl_2_6/258-4924661-9472752?psc=1)
-*   [Fulltech Termal Akım Korumalı 8li Uzatma Kablosu 3xusb 2 Mt 16 Amper](https://www.trendyol.com/fulltech/termal-akim-korumali-8li-uzatma-kablosu-3xusb-2-mt-16-amper-ftr-08-p-207261491)
-
-
-
 # Apps
 
 * * *
