@@ -57,47 +57,6 @@
 
 
 
-# USB ve Veri Kabloları
-
-* * *
-
-*   [UGREEN USB-A to USB-B 2.0 Örgülü **Yazıcı Kablosu** 1 Metre](https://www.teknostore.com/ugreen-usb-a-to-usb-b-2-0-orgulu-yazici-kablosu-1-metre-2248)
-*   [UGREEN **SATA 3 Disk Kablosu** 90 Derece Kilit Mekanizmalı](https://www.teknostore.com/ugreen-sata-3-disk-kablosu-90-derece-kilit-mekanizmali-304)
-*   [UGREEN Cat7 Örgülü F/FTP 10Gbps RJ45 **Ethernet Kablosu** 50 cm](https://www.teknostore.com/ugreen-cat7-orgulu-f-ftp-10gbps-rj45-ethernet-kablosu-50-cm-2535)
-*   [UGREEN 3.5mm Jack **Ses/Aux Uzatma Kablosu** 1 Metre](https://www.teknostore.com/ugreen-3-5mm-jack-ses-aux-uzatma-kablosu-1-metre-91)
-*   [UGREEN 3.5mm Aux Stereo **Kulaklık Çoklayıcı** Kablosu Siyah](https://www.teknostore.com/ugreen-3-5mm-aux-stereo-kulaklik-coklayici-kablo-siyah-219)
-*   [UGREEN 90 Derece L Tipi 3.5mm **Aux Ses Kablosu** 50 cm](https://www.teknostore.com/ugreen-90-derece-l-tipi-3-5mm-aux-ses-kablosu-50-cm-531)
-*   [UGREEN 3.5mm to XLR **Mikrofon Ses Kablosu** Örgülü 1 Metre](https://www.teknostore.com/ugreen-3-5mm-to-xlr-mikrofon-ses-kablosu-orgulu-1-metre-3150)
-*   [UGREEN XLR Erkek - XLR Dişi **Mikrofon Ses Kablosu** 1 Metre](https://www.teknostore.com/ugreen-xlr-erkek-xlr-disi-mikrofon-ses-kablosu-1-metre-3123)
-*   [UGREEN 100W 6A SuperCharge Örgülü Type-C Data ve **Şarj Kablosu** 1 Metre](https://www.teknostore.com/ugreen-100w-6a-supercharge-orgulu-type-c-data-ve-sarj-kablosu-1-metre-2546)
-*   [UGREEN 8K 60Hz Ultra HD **HDMI 2.1** Görüntü Aktarma Kablosu 1 Metre](https://www.teknostore.com/ugreen-8k-60hz-ultra-hd-hdmi-2-1-goruntu-aktarma-kablosu-1-metre-623)
-*   [Ugreen 8K 60Hz **Displayport to Displayport 1.4** Örgülü Kablo 1 Metre](https://www.teknostore.com/ugreen-8k-60hz-displayport-to-displayport-1-4-orgulu-kablo-1-metre-622)
-
-
-
-# Adaptörler ve Dönüştürücüler
-
-* * *
-
-*   [UGREEN PCIe 3.0 x4 NVMe **M.2 SSD Dönüştürücü Adaptör**](https://www.teknostore.com/ugreen-pcie-3-0-x4-nvme-m-2-ssd-donusturucu-adaptor-2384)
-*   [Ugreen RJ45 Ethernet **Kablosu Uzatma Aparatı** Siyah](https://www.teknostore.com/ugreen-rj45-ethernet-kablosu-uzatma-aparati-siyah-202)
-*   [UGREEN PCIe 4.0 x4/x8/x16 Uyumlu 64Gbps NVMe **M.2 SSD Dönüştürücü Adaptör**](https://www.teknostore.com/ugreen-pcie-4-0-x4-x8-x16-uyumlu-64gbps-nvme-m-2-ssd-donusturucu-adaptor-3130)
-*   [UGREEN M.2 **NVMe ve NGFF Okuyucu Adaptör Kartı**](https://www.teknostore.com/ugreen-pcie-3-0-m-2-nvme-ve-ngff-okuyucu-adaptor-karti-2385)
-*   [UGREEN Mini **USB Dongle Bluetooth 5.0 Adaptör** Siyah](https://www.teknostore.com/ugreen-mini-usb-dongle-bluetooth-5-0-adaptor-siyah-2484)
-
-
-
-# Şarj Cihazları
-
-* * *
-
-*   [UGREEN 100W Type-C QC 4.0 PD 3.0 GaNx 2 Portlu **Hızlı Şarj Cihazı**](https://www.teknostore.com/ugreen-100w-type-c-qc-4-0-pd-3-0-ganx-2-portlu-hizli-sarj-cihazi-2543)
-*   [UGREEN 66W 2 Portlu USB-C PD **Hızlı Şarj Cihazı** Siyah](https://www.teknostore.com/ugreen-66w-2-portlu-usb-c-pd-hizli-sarj-cihazi-siyah-2498)
-*   [UGREEN Çift Portlu 24W **Araç Çakmaklık Hızlı Şarj Cihazı**](https://www.teknostore.com/ugreen-cift-portlu-24w-arac-cakmaklik-hizli-sarj-cihazi-472)
-*   [UGREEN Kablosuz Powerbank 10000mAh USB-C Hızlı Şarj Fonksiyonlu Manyetik **Güç Bankası** Standlı](https://www.amazon.com.tr/dp/B0BWRTLBGK/?psc=1)
-
-
-
 # Diğer Ürünler
 
 * * *
