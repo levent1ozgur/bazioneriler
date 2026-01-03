@@ -32,6 +32,7 @@
 *   [**MyAnimeList** (MAL) dışa aktarma dosyasından yapılandırılmış bir markdown promptu oluşturur.](https://myanimeprompt.github.io/)
 *   [Anime ses sanatçılarına göre **anime bulma**.](https://findmyseiyuu.netlify.app/)
 *   [Windows, MacOS ve Linux için **toplu yazılım yükleme** aracı. ](https://batchinstallpro.netlify.app/)
+*   [Awesome Wallpapers. ](https://wallhaven.cc/)   
  
 
 
