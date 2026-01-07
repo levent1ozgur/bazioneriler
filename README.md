@@ -24,7 +24,7 @@
 *   [**Ücretsiz, açık kaynaklı ve gizliliğe saygılı hizmetlerin ve özel hizmetlere alternatiflerin listesi.**](https://pluja.github.io/awesome-privacy/)
 *   [SSD için yapılacak tüm ayarlar.](https://www.technopat.net/sosyal/konu/ssd-icin-yapilacak-tuem-ayarlar.444993/)
 *   [Gizliliği ön planda tutan şifreli link kısaltıcı.](https://maglit.me/)
-*   [Ücretsiz **PDF kütüphanesi**.](https://libgen.is/)
+*   [**Kütüphane** crack.](https://open-slum.pages.dev)
 *   [Hesabınızı web hizmetlerinden silmek için doğrudan bağlantılardan oluşan bir dizin.](https://justdeleteme.xyz/)
 *   [Yapay zeka araçlar kütüphanesi.](https://www.futurepedia.io/)
 *   [AI image upscaler.](https://www.upscale.media/)
