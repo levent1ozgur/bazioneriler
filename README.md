@@ -4,7 +4,7 @@
 
 * [Anime](https://myanimelist.net/animelist/cucarachasL?status=2&order=4&order2=0)
 * [TV Series](https://www.imdb.com/list/ls591728667/?ref_=ext_shr_lnk&sort=user_rating%2Cdesc)
-* [free live world TV streaming from anywhere, with no account, no signup, and no ads.](https://famelack.com/)
+* [Free live world TV streaming from anywhere, with no account, no signup, and no ads.](https://famelack.com/)
 * [YIFY status](https://yifystatus.com/)
 
 # Forty Thieves - Beauty And Health Care Routine
