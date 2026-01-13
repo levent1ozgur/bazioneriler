@@ -7,13 +7,13 @@
 * [Free live world TV streaming from anywhere, with no account, no signup, and no ads.](https://famelack.com/)
 * [YIFY status](https://yifystatus.com/)
 
-# Forty Thieves - Beauty And Health Care Routine
+# FortyThieves-BeautyAndHealthCareRoutine
 
 * * *
 
 * [Trendyol Collection](https://www.trendyol.com/koleksiyonlar/40-haramiler-beauty-and-health-care-routine-k-05612372-5135-401a-a8a7-a146636c5ea9)
 
-# Useful Links
+# VeryNiceLinks
 
 * * *
 
@@ -27,12 +27,18 @@
 * [Futurepedia - Comprehensive AI tools directory](https://www.futurepedia.io/)
 * [Upscale.media - AI-powered image upscaler](https://www.upscale.media/)
 * [VirusTotal - Online file & URL scanner](https://www.virustotal.com/)
-* [MyAnimePrompt - Generate markdown prompts from MAL exports](https://myanimeprompt.github.io/)
-* [FindMySeiyuu - Discover anime by voice actors](https://findmyseiyuu.netlify.app/)
-* [Batch Install Pro - Bulk software installer for Windows/Mac/Linux](https://batchinstallpro.netlify.app/)
 * [Wallhaven - High-quality wallpaper collection](https://wallhaven.cc/)
 
-# Software & Tools
+# MyProjects
+
+* * *
+
+* [FindMySeiyuu - Discover anime by voice actors](https://findmyseiyuu.netlify.app/)
+* [Batch Install Pro - Bulk software installer for Windows/Mac/Linux](https://batchinstallpro.netlify.app/)
+* [Github Selective Download](https://githubselectivedownload.netlify.app/)
+* [TerminalRPG](https://terminal-rpg.netlify.app/)
+
+# Software&Twols
 
 * * *
 
@@ -49,7 +55,7 @@
 * [Microsoft Activation Scripts - Windows & Office activation](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [dupeGuru - Duplicate file finder](https://dupeguru.voltaicideas.net/)
 
-# Nice Apps
+# Nice2HaveApps
 
 * * *
 
