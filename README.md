@@ -33,9 +33,10 @@
 
 * * *
 
-* [FindMySeiyuu - Discover anime by voice actors](https://findmyseiyuu.netlify.app/)
 * [Batch Install Pro - Bulk software installer for Windows/Mac/Linux](https://batchinstallpro.netlify.app/)
-* [Github Selective Download](https://githubselectivedownload.netlify.app/)
+* [Github Selective Download](https://githubselectivedownload.netlify.app/)  
+* [FindMySeiyuu - Discover anime by voice actors](https://findmyseiyuu.netlify.app/)
+* [MyAnimePrompt- AI Anime Recommendation Prompt Generator ](https://myanimeprompt.netlify.app/)
 * [TerminalRPG](https://terminal-rpg.netlify.app/)
 
 # Software&Twols
