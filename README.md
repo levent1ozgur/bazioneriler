@@ -50,7 +50,7 @@
 * [LibreOffice - Free office suite](https://www.libreoffice.org/)
 * [Touch Portal - Turn mobile devices into macro control decks](https://www.touch-portal.com/)
 * [Macro Recorder - Keyboard & mouse automation tool](https://www.macrorecorder.com/)
-* [RGBSync - Unified RGB lighting control](https://rgbsync.com/)
+* [OpenRGB - Open source RGB lighting control that doesn't depend on manufacturer software](https://openrgb.org/)
 * [SpotX - Modified Spotify client (ad-blocked)](https://github.com/amd64fox/SpotX/)
 * [IDM Activation Script - Trial reset & activation](https://github.com/lstprjct/IDM-Activation-Script)
 * [Microsoft Activation Scripts - Windows & Office activation](https://github.com/massgravel/Microsoft-Activation-Scripts)
