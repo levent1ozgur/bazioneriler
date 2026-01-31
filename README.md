@@ -49,6 +49,7 @@
 * [qBittorrent - Open-source torrent client](https://www.qbittorrent.org/)
 * [LibreOffice - Free office suite](https://www.libreoffice.org/)
 * [Touch Portal - Turn mobile devices into macro control decks](https://www.touch-portal.com/)
+* [Macro Deck - An open-source macro board](https://macro-deck.app/)
 * [Macro Recorder - Keyboard & mouse automation tool](https://www.macrorecorder.com/)
 * [OpenRGB - Open source RGB lighting control that doesn't depend on manufacturer software](https://openrgb.org/)
 * [SpotX - Modified Spotify client (ad-blocked)](https://github.com/amd64fox/SpotX/)
